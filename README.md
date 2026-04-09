@@ -1,6 +1,6 @@
 # 🎓 Student Exam Performance Analytics
 
-> Pipeline ELT complet sur **10 000 profils d'étudiants**.  
+> Pipeline ELT complet sur un dataset **10 000 profils d'étudiants**.  
 > Analyse des facteurs de réussite académique · Dashboard Power BI 5 pages.
 
 ---
