@@ -292,6 +292,6 @@ best/worst subject, risk_score, segments, GPA, flags.
 
 ---
 
-Fait par Fouad MOUTAIROU
+Fait par Fouad MOUTAIROU | Data & IA engieer
 
 *10 000 étudiants · 23 variables · Score 4.4 → 97.8/100*
