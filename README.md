@@ -292,8 +292,8 @@ best/worst subject, risk_score, segments, GPA, flags.
 
 ---
 
-Fait par Fouad MOUTAIROU | Data & IA engineer
+Réalisé par Fouad MOUTAIROU | Data & IA engineer
 
-Portfolio : https://portfolio-fouad.netlify.app
+Mon Portfolio : https://portfolio-fouad.netlify.app
 
 *10 000 étudiants · 23 variables · Score 4.4 → 97.8/100*
